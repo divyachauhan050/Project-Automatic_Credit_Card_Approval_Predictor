@@ -24,7 +24,6 @@ These are some of the key findings for this project:
 
 3. The continent-wise breakup for the different industry categories and the earliest year that records their existence is as follows:
 <br> </br>
-
 4.
 
 
