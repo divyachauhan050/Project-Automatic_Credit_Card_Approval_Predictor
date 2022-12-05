@@ -18,7 +18,7 @@ I have used the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/dat
 **Business Question that I try to answer: "Predicting if a credit card application will be approved or not?"**
 
 These are some of the key findings for this project:
-1. **Banking** is an excellent industry to be in from a longetivity perspective.
+1. The features of this dataset had been anonymized to protect the privacy, so determining the exact features was challenging. But [this blog](http://rstudio-pubs-static.s3.amazonaws.com/73039_9946de135c0a49daa7a0a9eda4a67a72.html) gives us a pretty good overview of the probable features.
 
 2. **Cafés, Restaurants & Bars** is another industry sector that has been around for a really, really, long time.
 
