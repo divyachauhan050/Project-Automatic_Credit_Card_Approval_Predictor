@@ -28,7 +28,7 @@ These are some of the key findings for this project:
 
 5. The dataset also contains values from several ranges. Some features have a *value range of 0 - 28*, some have a *range of 2 - 67*, and some have a *range of 1017 - 100000*. Apart from these, we can get useful statistical information (like **mean**, **max**, and **min**) about the features that have numerical values.
 
-6. Finally, the dataset has missing values, which we'll take care of in this task. The missing values in the dataset are labeled with '?', which can be seen in the last cell's output of the second task.
+6. Finally, the dataset has missing values, which we'll take care of in this task. The missing values in the dataset are labeled with '?', which can be seen in the last cell's output of the second task. I replaced all the question marks with NaNs.
 
 
 
