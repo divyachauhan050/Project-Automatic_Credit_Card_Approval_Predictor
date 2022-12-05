@@ -15,7 +15,7 @@ I have used the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/dat
 
 ## Key Findings
 
-**Business Question that I try to answer: "What ?"**
+**Business Question that I try to answer: "Predicting if a credit card application will be approved or not?"**
 
 These are some of the key findings for this project:
 1. **Banking** is an excellent industry to be in from a longetivity perspective.
