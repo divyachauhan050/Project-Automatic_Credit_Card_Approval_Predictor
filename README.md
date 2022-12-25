@@ -32,7 +32,7 @@ These are some of the key findings for this project:
 
 7. An important question that gets raised here is *why are we giving so much importance to missing values*? Can't they be just ignored? Ignoring missing values can affect the performance of a machine learning model heavily. While ignoring the missing values our machine learning model may miss out on information about the dataset that may be useful for its training. Then, there are many models which cannot handle missing values implicitly such as Linear Discriminant Analysis (LDA). So, to avoid this problem, I imputed the missing values with a strategy called **mean imputation**.
 
-8. This project
+8. This project states
 
 
 
